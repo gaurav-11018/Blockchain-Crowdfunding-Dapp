@@ -70,3 +70,4 @@ contract CrowdFunding {
         return allCampaigns;
     }
 }
+//thats alllllll
